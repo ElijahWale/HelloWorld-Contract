@@ -1,3 +1,5 @@
+*CONTRACT ADDRESS: 0xd7577d5f2006b791e7f23552967df9fc8b0aa0bd*
+
 REMIX EXAMPLE PROJECT
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
